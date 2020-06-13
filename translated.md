@@ -4,7 +4,7 @@
 # My portfolio 
 Most of this works have been done in collaboration with my team:
 * [Francesco](https://github.com/franz-ops)
-* [Luigi](https://github.com/Lu191)
+* [Luigi](https://github.com/Luigi2110)
 
 
 ## Snip
