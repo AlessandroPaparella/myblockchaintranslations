@@ -15,7 +15,7 @@ ANN link: [https://bitcointalk.org/index.php?topic=2149281](https://bitcointalk.
 
 ><img src="src/img/easymine.jpg" height="300"><br>
 ANN link: [https://bitcointalk.org/index.php?topic=2051790](https://bitcointalk.org/index.php?topic=2051790)<br>  
-Whitepaper: [Download](src/file/easyMINE_Whitepaper_2.1_IT.pdf)
+Whitepaper: [Download](src/docs/easyMINE_Whitepaper_2.1_IT.pdf)
 
 ## Primalbase
 ><img src="src/img/primalbase.png" height="300"><br>
@@ -24,18 +24,18 @@ ANN link: [https://bitcointalk.org/index.php?topic=1958874](https://bitcointalk.
 ## AdEx 
 ><img src="src/img/AdEx.png" height="300"><br>
 ANN link: [https://bitcointalk.org/index.php?topic=1986442](https://bitcointalk.org/index.php?topic=1986442)<br>  
-Whitepaper: [Download](src/file/AdEx-Whitepaper-v1.4 ITA.pdf)
+Whitepaper: [Download](src/docs/AdEx-Whitepaper-v1.4%20ITA.pdf)
 
 ## Snovio
 ><img src="src/img/snovio.png" height="300"><br>
 ANN link: [https://bitcointalk.org/index.php?topic=2203900](https://bitcointalk.org/index.php?topic=2203900)<br>
 Bounty thread: [https://bitcointalk.org/index.php?topic=2206342](https://bitcointalk.org/index.php?topic=2206342)  
-Onepager: [Download](src/file/OnePagerIt.pdf)
+Onepager: [Download](src/docs/OnePagerIt.pdf)
 
 ## Aventus
 ><img src="src/img/avt.png" height="300"><br>
 ANN link: [https://bitcointalk.org/index.php?topic=1977887](https://bitcointalk.org/index.php?topic=1977887)<br>  
-Whitepaper: [Download](src/file/whitepaper_AVENTUS_ITA.pdf)  
+Whitepaper: [Download](src/docs/whitepaper_AVENTUS_ITA.pdf)  
 Articles translated on steemit
 
 ## Unify
