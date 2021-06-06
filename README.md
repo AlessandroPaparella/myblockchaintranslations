@@ -78,3 +78,8 @@ ANN link: [https://bitcointalk.org/index.php?topic=1941104.0](https://bitcointal
 ## Blocklancer
 ><img src="src/img/blocklancer.png" height="300"><br>
 ANN link: [https://bitcointalk.org/index.php?topic=2009737](https://bitcointalk.org/index.php?topic=2009737)
+
+## Crypterium
+><img src="src/img/Crypterium.png" height="300"><br>
+ANN link: [https://bitcointalk.org/index.php?topic=2302242](https://bitcointalk.org/index.php?topic=2302242)
+
